@@ -7,7 +7,7 @@
 	import Projects from "./Projects.svelte";
 	import Footer from "./Footer.svelte";
 
-	let isDarkMode = true;
+	let isDarkMode = false;
 	let showButton = false;
 
 	function toggleTheme() {
