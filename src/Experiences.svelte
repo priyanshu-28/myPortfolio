@@ -6,7 +6,7 @@
             date: "February 2024 - Present",
             description:
                 "Built, improved, and added features utilized by more than 200 companies and over 100k people using Svelte for Breeze checkout page, ensuring end to end testing and flow of data-pipelines",
-            link: "#",
+            link: "https://juspay.in/",
         },
         {
             name: "Oblivious.ai",
@@ -14,7 +14,7 @@
             date: "June 2023 - Decemeber 2023",
             description:
                 "Collaborated with the Chief Technology Officer to orchestrate a 30% cost reduction in product development, leveraging Large Language Models for enhanced efficiency",
-            link: "#",
+            link: "https://www.oblivious.com/",
         },
         {
             name: "StepWell Radio",
