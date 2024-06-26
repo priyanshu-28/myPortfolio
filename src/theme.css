@@ -1,0 +1,24 @@
+:root {
+    --background-color: #000;
+    --text-color: #fff;
+    --highlight-color: #61dafb;
+    --subheading-color: #9b9b9b;
+    --border-color: #555;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+:global(.light-mode) {
+    --background-color: #f4f4f4;
+    --text-color: #333;
+    --highlight-color: #007acc;
+    --subheading-color: #666;
+    --border-color: #ccc;
+}
