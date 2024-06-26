@@ -38,6 +38,9 @@
 		) {
 			isDarkMode = false;
 			document.body.classList.add("light-mode");
+		} else {
+			isDarkMode = true;
+			document.body.classList.add("dark-mode");
 		}
 		window.addEventListener("scroll", checkScroll);
 		return () => {
