@@ -1,6 +1,13 @@
 <script>
     let projects = [
         {
+            name: "Zeta(Directi)",
+            designation: "Software Development Engineer",
+            date: "July 2024 - Present",
+            description: "In Progress...",
+            link: "https://zeta.in/",
+        },
+        {
             name: "Juspay",
             designation: "Software Development Engineer",
             date: "February 2024 - Present",
@@ -42,7 +49,9 @@
             <h5>
                 {project.date}
             </h5>
-            {#if project.name === "Juspay"}
+            {#if project.name === "Zeta(Directi)"}
+                <li>{project.description}</li>
+            {:else if project.name === "Juspay"}
                 <li>{project.description}</li>
                 <li>
                     Automated functionalities and enhanced the product
