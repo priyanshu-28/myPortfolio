@@ -10,7 +10,7 @@
         {
             name: "Juspay",
             designation: "Software Development Engineer",
-            date: "February 2024 - Present",
+            date: "February 2024 - July 2024",
             description:
                 "Built, improved, and added features utilized by more than 200 companies and over 100k people using Svelte for Breeze checkout page, ensuring end to end testing and flow of data-pipelines",
             link: "https://juspay.in/",
