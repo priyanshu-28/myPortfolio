@@ -4,7 +4,8 @@
             name: "Zeta(Directi)",
             designation: "Software Development Engineer",
             date: "July 2024 - Present",
-            description: "In Progress...",
+            description:
+                "Built Hugo sites for internal teams, created an AI chat bot, and migrated the workflow to Azure from Suite",
             link: "https://zeta.in/",
         },
         {
@@ -92,6 +93,7 @@
 <style>
     section {
         padding: 20px;
+        margin: 0 300px;
     }
 
     h2 {

@@ -60,7 +60,7 @@
 	<button class="resume" on:click={openLink}>Resume</button>
 
 	<button class="toggle-theme" on:click={toggleTheme}>
-		{isDarkMode ? "Light Mode" : "Dark Mode"}
+		{isDarkMode ? "☀️" : "🚀"}
 	</button>
 
 	<button

@@ -10,7 +10,7 @@
         },
         {
             name: "GitHub",
-            link: "https://github.com/priyanshu_28",
+            link: "https://github.com/priyanshu-28",
         },
     ];
 </script>
