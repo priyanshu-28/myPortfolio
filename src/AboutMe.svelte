@@ -12,7 +12,7 @@
 <style>
     .about-me {
         display: flex;
-        margin: 0 300px;
+        /* margin: 0 300px; */
     }
     section {
         padding: 20px;

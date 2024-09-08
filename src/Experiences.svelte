@@ -93,7 +93,7 @@
 <style>
     section {
         padding: 20px;
-        margin: 0 300px;
+        /* margin: 0 300px; */
     }
 
     h2 {
