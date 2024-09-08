@@ -49,7 +49,7 @@
     section {
         padding: 20px;
         margin-top: -40px;
-        margin: 0 300px;
+        /* margin: 0 300px; */
     }
 
     h2 {
